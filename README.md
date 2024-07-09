@@ -10,7 +10,7 @@ I am a passionate Flutter developer with experience in building mobile applicati
 - 👯 I’m looking to advance my developing skills
 - 💬 Ask me about Flutter, Dart, or anything tech-related
 - 📫 How to reach me: abdallhmamdouh079@gmail.com
-- ⚡ Fun fact: [A Fun Fact About You]
+
 
 ## Skills
 - **Languages**: Dart, Python, Php, C, C#
