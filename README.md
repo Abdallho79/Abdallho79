@@ -41,7 +41,7 @@ Here are some of the projects I've worked on:
   - **Product listing and filtering**: Display products with options to filter and sort.
   - **Shopping cart**: Add, remove, and manage items in the cart.
   - **Order management**: Place orders and track their status.
-  - **Payment integration**: Supports multiple payment methods.
+  
   
   ### Key Features:
   - **Responsive design**: Optimized for both mobile and web platforms.
